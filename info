@@ -1,3 +1,3 @@
 # b07lab1
 
-Doing the first lab assignment during the b07 tutorial 
+Doing the first lab assignment during the b07 tutorial - polynomial assignment where I have to create a polynomial class which has coefficient fields and supports creating instances, evaluating at x values, determining roots, and adding other polynomials.
